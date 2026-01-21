@@ -1,9 +1,9 @@
-torch>=2.0
-transformers>=4.36
+torch
+transformers
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
 umap-learn
-jupyter
+tqdm
