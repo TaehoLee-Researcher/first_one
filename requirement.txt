@@ -1,0 +1,9 @@
+torch>=2.0
+transformers>=4.36
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+umap-learn
+jupyter
